@@ -1,4 +1,4 @@
 ## Hi there 👋
 these is my first git repository.
 <br>
-Author --> Purvank kn
+Author --> Purvank kn(ece)
